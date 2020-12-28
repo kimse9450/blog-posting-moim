@@ -9,7 +9,7 @@
 - sj : https://ysjune.github.io/posts/java/orelsenorelseget/
 - yj :
 - jd :
-- se :
+- se :https://kimse9450-dev.tistory.com/1 (controller에서 파라미터를 받는 방법)
 
 
 
